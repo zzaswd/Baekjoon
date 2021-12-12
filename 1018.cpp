@@ -27,7 +27,7 @@ char white_first[8][8] = {
 	{'B','W','B','W','B','W','B','W'} };
 
 
-int main() {
+int main_1018() {
 	int M, N;
 	int Min = 2000;
 
@@ -56,6 +56,7 @@ int main() {
 	}
 	
 	cout << Min;
+	return 0;
 }
 
 
