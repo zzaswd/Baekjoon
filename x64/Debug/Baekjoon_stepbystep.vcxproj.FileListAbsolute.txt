@@ -1,2 +1,3 @@
 C:\Users\강시형\source\repos\Baekjoon_stepbystep\x64\Debug\Baekjoon_stepbystep.exe
 C:\Users\KSH\source\repos\Baekjoon_stepbystep\x64\Debug\Baekjoon_stepbystep.exe
+C:\Users\KSH\source\repos\Baekjoon_stepbystep\Baekjoon\x64\Debug\Baekjoon_stepbystep.exe
